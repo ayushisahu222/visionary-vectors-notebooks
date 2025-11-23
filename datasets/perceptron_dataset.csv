@@ -1,0 +1,151 @@
+Weekday,Mood,Weather,Workload Description,Client Demo,Goes to Office
+Wednesday,Moody,Sunny,5 hrs job but can be done in focused 2 hours,No,Yes
+Thursday,Sulky,Rainy,Trouble load,Yes,Yes
+Monday,Moody,Sunny,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Friday,Moody,Windy,Trouble load,No,No
+Thursday,Moody,Sunny,1 hour job but will take 7 hours,No,Yes
+Friday,Moody,Rainy,5 hrs job but can be done in focused 2 hours,No,No
+Friday,Sulky,Sunny,1 hour job but will take 7 hours,No,No
+Thursday,Sulky,Windy,Trouble load,Yes,Yes
+Wednesday,Moody,Rainy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Wednesday,Chirpy,Windy,Trouble load,No,No
+Friday,Moody,Sunny,1 hour job but will take 7 hours,No,No
+Tuesday,Moody,Sunny,Trouble load,Yes,Yes
+Tuesday,Chirpy,Rainy,Trouble load,No,No
+Monday,Moody,Windy,1 hour job but will take 7 hours,No,No
+Tuesday,Chirpy,Windy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Wednesday,Chirpy,Sunny,Trouble load,No,Yes
+Tuesday,Chirpy,Windy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Monday,Moody,Windy,1 hour job but will take 7 hours,No,No
+Tuesday,Chirpy,Rainy,Trouble load,No,No
+Thursday,Moody,Sunny,1 hour job but will take 7 hours,No,Yes
+Thursday,Sulky,Windy,Trouble load,Yes,Yes
+Thursday,Moody,Windy,Trouble load,No,Yes
+Monday,Chirpy,Windy,1 hour job but will take 7 hours,Yes,Yes
+Wednesday,Chirpy,Rainy,1 hour job but will take 7 hours,No,No
+Friday,Sulky,Windy,Trouble load,No,No
+Thursday,Chirpy,Windy,Trouble load,No,Yes
+Friday,Sulky,Sunny,Trouble load,Yes,Yes
+Monday,Chirpy,Sunny,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Tuesday,Sulky,Rainy,Trouble load,No,No
+Thursday,Chirpy,Windy,Trouble load,Yes,Yes
+Friday,Moody,Windy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Friday,Sulky,Windy,Trouble load,No,No
+Monday,Sulky,Rainy,1 hour job but will take 7 hours,Yes,No
+Friday,Moody,Sunny,Trouble load,No,No
+Tuesday,Sulky,Sunny,1 hour job but will take 7 hours,Yes,Yes
+Monday,Moody,Windy,1 hour job but will take 7 hours,Yes,Yes
+Friday,Sulky,Windy,1 hour job but will take 7 hours,Yes,No
+Monday,Sulky,Rainy,Trouble load,Yes,No
+Tuesday,Chirpy,Windy,5 hrs job but can be done in focused 2 hours,No,Yes
+Tuesday,Chirpy,Windy,5 hrs job but can be done in focused 2 hours,No,Yes
+Wednesday,Chirpy,Sunny,Trouble load,No,Yes
+Monday,Sulky,Windy,1 hour job but will take 7 hours,Yes,No
+Thursday,Sulky,Windy,5 hrs job but can be done in focused 2 hours,No,Yes
+Thursday,Chirpy,Rainy,5 hrs job but can be done in focused 2 hours,No,Yes
+Friday,Moody,Windy,Trouble load,Yes,Yes
+Thursday,Sulky,Rainy,5 hrs job but can be done in focused 2 hours,No,Yes
+Thursday,Moody,Sunny,Trouble load,No,Yes
+Monday,Sulky,Sunny,Trouble load,Yes,Yes
+Wednesday,Sulky,Rainy,1 hour job but will take 7 hours,Yes,No
+Monday,Chirpy,Rainy,5 hrs job but can be done in focused 2 hours,No,Yes
+Tuesday,Sulky,Windy,1 hour job but will take 7 hours,No,No
+Wednesday,Chirpy,Rainy,5 hrs job but can be done in focused 2 hours,No,Yes
+Wednesday,Chirpy,Windy,1 hour job but will take 7 hours,Yes,Yes
+Friday,Chirpy,Windy,1 hour job but will take 7 hours,Yes,Yes
+Monday,Chirpy,Rainy,Trouble load,Yes,Yes
+Monday,Moody,Rainy,Trouble load,Yes,Yes
+Friday,Moody,Windy,Trouble load,No,No
+Monday,Sulky,Windy,5 hrs job but can be done in focused 2 hours,No,No
+Tuesday,Chirpy,Rainy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Wednesday,Moody,Rainy,1 hour job but will take 7 hours,Yes,Yes
+Friday,Moody,Windy,1 hour job but will take 7 hours,Yes,Yes
+Monday,Chirpy,Windy,1 hour job but will take 7 hours,Yes,Yes
+Friday,Moody,Windy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Wednesday,Sulky,Windy,1 hour job but will take 7 hours,No,No
+Monday,Chirpy,Sunny,5 hrs job but can be done in focused 2 hours,No,Yes
+Tuesday,Moody,Windy,5 hrs job but can be done in focused 2 hours,No,No
+Tuesday,Sulky,Windy,1 hour job but will take 7 hours,Yes,No
+Thursday,Chirpy,Windy,5 hrs job but can be done in focused 2 hours,No,Yes
+Wednesday,Moody,Rainy,5 hrs job but can be done in focused 2 hours,No,No
+Thursday,Chirpy,Windy,Trouble load,No,Yes
+Wednesday,Moody,Rainy,Trouble load,No,No
+Friday,Moody,Rainy,Trouble load,No,No
+Monday,Moody,Rainy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Thursday,Chirpy,Sunny,Trouble load,No,Yes
+Wednesday,Chirpy,Rainy,Trouble load,Yes,Yes
+Wednesday,Moody,Sunny,1 hour job but will take 7 hours,No,No
+Monday,Chirpy,Rainy,5 hrs job but can be done in focused 2 hours,No,Yes
+Monday,Moody,Sunny,Trouble load,Yes,Yes
+Thursday,Moody,Rainy,1 hour job but will take 7 hours,Yes,Yes
+Tuesday,Sulky,Sunny,1 hour job but will take 7 hours,No,No
+Friday,Moody,Rainy,Trouble load,No,No
+Monday,Moody,Windy,1 hour job but will take 7 hours,No,No
+Wednesday,Sulky,Sunny,Trouble load,Yes,Yes
+Thursday,Moody,Rainy,1 hour job but will take 7 hours,Yes,Yes
+Tuesday,Sulky,Windy,1 hour job but will take 7 hours,Yes,No
+Friday,Chirpy,Sunny,Trouble load,No,Yes
+Thursday,Chirpy,Windy,1 hour job but will take 7 hours,Yes,Yes
+Monday,Moody,Sunny,5 hrs job but can be done in focused 2 hours,No,Yes
+Monday,Moody,Windy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Wednesday,Sulky,Windy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Wednesday,Chirpy,Rainy,1 hour job but will take 7 hours,Yes,Yes
+Monday,Chirpy,Windy,5 hrs job but can be done in focused 2 hours,No,Yes
+Wednesday,Moody,Rainy,Trouble load,Yes,Yes
+Wednesday,Moody,Sunny,Trouble load,Yes,Yes
+Thursday,Sulky,Rainy,1 hour job but will take 7 hours,No,Yes
+Wednesday,Sulky,Rainy,Trouble load,Yes,No
+Tuesday,Chirpy,Sunny,Trouble load,Yes,Yes
+Monday,Sulky,Rainy,1 hour job but will take 7 hours,Yes,No
+Tuesday,Chirpy,Windy,Trouble load,No,No
+Monday,Chirpy,Rainy,Trouble load,Yes,Yes
+Tuesday,Moody,Sunny,1 hour job but will take 7 hours,Yes,Yes
+Friday,Chirpy,Sunny,Trouble load,No,Yes
+Monday,Sulky,Sunny,5 hrs job but can be done in focused 2 hours,No,No
+Thursday,Sulky,Sunny,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Tuesday,Moody,Rainy,1 hour job but will take 7 hours,Yes,Yes
+Friday,Sulky,Rainy,Trouble load,No,No
+Tuesday,Sulky,Windy,Trouble load,Yes,No
+Friday,Moody,Rainy,5 hrs job but can be done in focused 2 hours,No,No
+Monday,Moody,Windy,Trouble load,No,No
+Thursday,Moody,Sunny,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Thursday,Moody,Sunny,1 hour job but will take 7 hours,Yes,Yes
+Monday,Sulky,Windy,Trouble load,Yes,No
+Monday,Chirpy,Windy,Trouble load,No,No
+Tuesday,Chirpy,Rainy,1 hour job but will take 7 hours,No,No
+Thursday,Sulky,Sunny,Trouble load,No,Yes
+Wednesday,Chirpy,Rainy,5 hrs job but can be done in focused 2 hours,No,Yes
+Thursday,Moody,Sunny,5 hrs job but can be done in focused 2 hours,No,Yes
+Thursday,Moody,Windy,5 hrs job but can be done in focused 2 hours,No,Yes
+Wednesday,Sulky,Windy,1 hour job but will take 7 hours,Yes,No
+Wednesday,Moody,Windy,1 hour job but will take 7 hours,Yes,Yes
+Monday,Sulky,Windy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Tuesday,Moody,Sunny,5 hrs job but can be done in focused 2 hours,No,Yes
+Wednesday,Sulky,Rainy,5 hrs job but can be done in focused 2 hours,No,No
+Thursday,Chirpy,Windy,Trouble load,No,Yes
+Friday,Moody,Sunny,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Friday,Sulky,Rainy,Trouble load,No,No
+Friday,Moody,Rainy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Monday,Chirpy,Rainy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Tuesday,Chirpy,Rainy,1 hour job but will take 7 hours,No,No
+Friday,Moody,Rainy,5 hrs job but can be done in focused 2 hours,Yes,Yes
+Monday,Moody,Windy,5 hrs job but can be done in focused 2 hours,No,No
+Thursday,Chirpy,Rainy,Trouble load,No,Yes
+Thursday,Sulky,Rainy,1 hour job but will take 7 hours,No,Yes
+Wednesday,Chirpy,Sunny,1 hour job but will take 7 hours,No,Yes
+Wednesday,Sulky,Sunny,1 hour job but will take 7 hours,Yes,Yes
+Tuesday,Moody,Sunny,Trouble load,Yes,Yes
+Friday,Sulky,Rainy,5 hrs job but can be done in focused 2 hours,No,No
+Tuesday,Chirpy,Sunny,Trouble load,Yes,Yes
+Friday,Sulky,Rainy,Trouble load,No,No
+Wednesday,Sulky,Rainy,Trouble load,Yes,No
+Friday,Chirpy,Sunny,5 hrs job but can be done in focused 2 hours,No,Yes
+Friday,Sulky,Windy,Trouble load,Yes,No
+Tuesday,Moody,Sunny,1 hour job but will take 7 hours,Yes,Yes
+Tuesday,Sulky,Sunny,5 hrs job but can be done in focused 2 hours,No,No
+Tuesday,Chirpy,Windy,Trouble load,Yes,Yes
+Wednesday,Chirpy,Sunny,1 hour job but will take 7 hours,Yes,Yes
+Wednesday,Chirpy,Rainy,1 hour job but will take 7 hours,No,No
+Thursday,Sulky,Windy,Trouble load,No,Yes
+Thursday,Chirpy,Windy,Trouble load,No,Yes
+Friday,Chirpy,Windy,1 hour job but will take 7 hours,Yes,Yes
